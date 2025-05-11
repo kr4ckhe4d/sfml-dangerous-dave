@@ -1,5 +1,8 @@
 # Dangerous Dave like game in C++ and SFML.
 
+![Peek 2025-05-11 10-46](https://github.com/user-attachments/assets/33bade47-0f6c-43e2-80c7-18edb567cce1)
+
+
 ## How to Use
 
 1. If you use Linux, install SFML's dependencies using your system package manager. On Ubuntu and other Debian-based distributions you can use the following commands:
